@@ -1,7 +1,9 @@
 ## About Me
 
 - 👋 Hi, I'm Kevin Yoon.
+
   - I'm a software engineer with 10+ years of experience in product and engineering program management with proven success in managing end-to-end development, launching new products, and leading cross-functional teams on a global scale. Highly driven to leverage technical expertise and passion for software innovation.
+
 - 📄 Currently at  Apple
 - 🔭 I’m currently working on [Trace](https://github.com/oslabs-beta/trace-visualization)
 - 🌎 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevinjyoon/)
