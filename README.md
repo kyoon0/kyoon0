@@ -1,3 +1,5 @@
+## About Me
+
 - 👋 Hi, I'm Kevin Yoon
 - 🔭 I’m currently working on [Trace](https://github.com/oslabs-beta/trace-visualization)
 - 🌎 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevinjyoon/)
