@@ -33,7 +33,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-## Stats
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoon0&theme=dark&show_icons=true&hide_border=true&count_private=true)
