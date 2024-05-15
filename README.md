@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Kevin Yoon
 
-  - I'm a software engineer with 10+ years of experience in product and engineering program management with proven success in managing end-to-end development, launching new products, and leading cross-functional teams on a global scale. Highly driven to leverage technical expertise and passion for software innovation
+  - I'm a product-driven engineering program manager who led successful launches of both hardware and software products. I do this by managing product development from design concept and leading cross-functional teams on a global scale. In addition to 10+ years of experience in product and system program management, I've supplemented my skills in software engineering to bridge the gaps between teams and ensure overall product goals are met through development.
 
 - 📄 Currently at  Apple
 - 🔭 Currently working on VS Code Extension Data Flow Visualization: [Trace](https://github.com/oslabs-beta/trace-visualization)
